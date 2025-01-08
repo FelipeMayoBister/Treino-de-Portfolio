@@ -1,5 +1,6 @@
 import React from 'react';
-import { Title, HomeContainer, GridWrapper } from '../components/HomeStyle';
+import { Title, HomeContainer } from '../components/HomeStyle';
+import { GridWrapper } from '../components/LayoutStyle';
 
 const Home = () => {
   return (
